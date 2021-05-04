@@ -2,7 +2,7 @@
 name = "yarustc8e-cli"
 description = "Command line interface for my Chip-8 emulator."
 repository = "https://github.com/Maxxls/yarustc8e-cli"
-version = "0.1.1"
+version = "0.1.3"
 authors = ["Maxim Kuznetsov <maximxlssoff@gmail.com>"]
 edition = "2018"
 license = "MIT"
@@ -10,6 +10,6 @@ license = "MIT"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-yarustc8e = "0.1.2"
+yarustc8e = "0.1.3"
 booldisplay = "0.1.0"
 image = "0.23.14"

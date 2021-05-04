@@ -393,16 +393,16 @@ checksum = "d8b77fdfd5a253be4ab714e4ffa3c49caf146b4de743e97510c0656cf90f1e8e"
 
 [[package]]
 name = "yarustc8e"
-version = "0.1.2"
+version = "0.1.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "91607e3c3cae3a6328d38a9e714acc7c81eb882e561b7bb6d7eb1d645c76327b"
+checksum = "1536b143ccb79c1ebeaa0df29cd9350857873dc2b7f205f85de4d6abd3a32c43"
 dependencies = [
  "rand",
 ]
 
 [[package]]
 name = "yarustc8e-cli"
-version = "0.1.1"
+version = "0.1.3"
 dependencies = [
  "booldisplay",
  "image",
