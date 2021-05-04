@@ -1,6 +1,7 @@
 [package]
 name = "yarustc8e-cli"
 description = "Command line interface for my Chip-8 emulator."
+repository = "https://github.com/Maxxls/yarustc8e-cli"
 version = "0.1.0"
 authors = ["Maxim Kuznetsov <maximxlssoff@gmail.com>"]
 edition = "2018"
