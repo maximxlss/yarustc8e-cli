@@ -17,7 +17,7 @@ fn main() {
         None => panic!("Usage: yarustc8e-cli [rom]")
     };
 
-    if let Some(v) = args.next() {
+    if let Some(_) = args.next() {
         panic!("Too many arguments supplied! Usage: yarustc8e-cli [rom]")
     }
 
