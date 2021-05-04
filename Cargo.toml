@@ -1,0 +1,12 @@
+[package]
+name = "yarustc8e-cli"
+version = "0.1.0"
+authors = ["Maxim Kuznetsov <maximxlssoff@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+yarustc8e = {version = "0.1.0", path = "D:\\programming\\rust\\YArustC8E"}
+booldisplay = "0.1.0"
+image = "0.23.14"
