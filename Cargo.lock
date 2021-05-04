@@ -393,7 +393,9 @@ checksum = "d8b77fdfd5a253be4ab714e4ffa3c49caf146b4de743e97510c0656cf90f1e8e"
 
 [[package]]
 name = "yarustc8e"
-version = "0.1.0"
+version = "0.1.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "f624cbb5f8cffce34797536cd52eba28d2dcc0960637daa102ee35a47411c98a"
 dependencies = [
  "rand",
 ]
