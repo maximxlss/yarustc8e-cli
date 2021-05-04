@@ -5,6 +5,7 @@ repository = "https://github.com/Maxxls/yarustc8e-cli"
 version = "0.1.1"
 authors = ["Maxim Kuznetsov <maximxlssoff@gmail.com>"]
 edition = "2018"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
