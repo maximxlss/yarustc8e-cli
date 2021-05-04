@@ -1,0 +1,5 @@
+# Yet Another Rust Chip-8 Emulator Command line interface
+
+Command line interface for my Chip-8 emulator (yarustc8e).
+It's not ready for anything than slowly executing visual demos. No input, no sound at the moment.
+But I'm still proud of it. My first emulator and (almost) my first rust project.
